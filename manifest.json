@@ -1,0 +1,11 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "",
+  "sha256": "",
+  "size": 0,
+  "minSdk": 21,
+  "forceUpdate": false,
+  "notes": "Initial manifest",
+  "releasedAt": "2025-01-01T00:00:00Z"
+}
