@@ -5,7 +5,7 @@
   "sha256": "e1d3910f4f532a858f7c498df05af1d3b73b491f808d37f08ee09326a0c0d7a2",
   "size": 3601913,
   "minSdk": 21,
-  "forceUpdate": false,
+  "forceUpdate": true,
   "notes": "نمایش نسخه اپ در پنل کنترل + بهبودهای جزئی",
   "releasedAt": "2025-09-24T00:00:00Z"
 }
