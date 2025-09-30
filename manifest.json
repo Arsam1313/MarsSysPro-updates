@@ -1,11 +1,1 @@
-{
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/Arsam1313/MarsSysPro-updates/releases/download/v1.0.2/MarsSysPro-1.0.2.apk",
-  "sha256": "e1d3910f4f532a858f7c498df05af1d3b73b491f808d37f08ee09326a0c0d7a2",
-  "size": 3601913,
-  "minSdk": 21,
-  "forceUpdate": true,
-  "notes": "نمایش نسخه اپ در پنل کنترل + بهبودهای جزئی",
-  "releasedAt": "2025-09-24T00:00:00Z"
-}
+{"versionCode": 4,"versionName": "1.0.3","apkUrl": "https://arsam1313.github.io/MarsSysPro-updates/app-release.apk","sha256": "48a72129f0994119beb179d5e11a972d85b68ea6c0bf3964e4526160acc82590","size": 3664051}
