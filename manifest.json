@@ -1,5 +1,7 @@
-{"versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/Arsam1313/MarsSysPro-updates/releases/download/v1.0.3/MarsSysPro-1.0.3.apk",
-  "sha256": "48a72129f0994119beb179d5e11a972d85b68ea6c0bf3964e4526160acc82590",
-  "size": 3664051}
+{
+    "versionCode": 9,
+    "versionName": "1.0.8",
+    "apkUrl": "https://Arsam1313.github.io/MarsSysPro-updates/app-release.apk",
+    "sha256": "173687b3b2c699ddac0993ac455ac42b0bb96c3d8679b9792ee534a783e07876",
+    "size": 3664040
+}
